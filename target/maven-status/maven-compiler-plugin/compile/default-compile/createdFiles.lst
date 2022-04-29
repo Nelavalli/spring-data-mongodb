@@ -1,0 +1,6 @@
+com/srikanth/springdatamongodb/MongoConfig.class
+com/srikanth/springdatamongodb/TestController.class
+com/srikanth/springdatamongodb/BasketRepository.class
+com/srikanth/springdatamongodb/SpringDataMongodbApplication.class
+com/srikanth/springdatamongodb/Basket.class
+com/srikanth/springdatamongodb/Basket$BasketBuilder.class
